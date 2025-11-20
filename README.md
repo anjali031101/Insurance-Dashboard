@@ -1,8 +1,6 @@
 
 # Insurance-Dashboard
 
-# Insurance-Dashboard
-
 ![Insurance Dashboard](https://raw.githubusercontent.com/anjali031101/Insurance-Dashboard/main/Screenshot%202025-11-20%20034029.png)
 
 ## Problem Statement
