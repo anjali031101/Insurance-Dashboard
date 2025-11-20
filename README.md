@@ -75,6 +75,8 @@ Step 17: Added Row-Level Security (RLS) roles for restricted data access.
 
 Step 18: Added a Drillthrough page for detailed policy analysis.
 
+![Insurance Dashboard](./Screenshot 2025-11-20 091805.png)
+
 ## Insights
 
 A single-page report was created in Power BI Desktop and published to Power BI Service.
