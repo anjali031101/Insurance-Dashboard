@@ -1,7 +1,13 @@
 
 # Insurance-Dashboard
 
-https://github.com/anjali031101/Insurance-Dashboard/blob/main/Screenshot%202025-11-20%20034029.png
+# Insurance-Dashboard
+
+![Insurance Dashboard](https://raw.githubusercontent.com/anjali031101/Insurance-Dashboard/main/Screenshot%202025-11-20%20034029.png)
+
+## Problem Statement
+The purpose of this dashboard is to help Trust Era Insurance Pvt. Ltd. understand its customers, policies, and claim patterns more effectively.
+
 
 ## Problem Statement
 
