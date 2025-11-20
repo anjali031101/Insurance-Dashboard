@@ -70,6 +70,9 @@ Step 16: Inserted text boxes for company name and tagline.
 
 Step 17: Added Row-Level Security (RLS) roles for restricted data access.
 
+![Insurance Dashboard](./Screenshot%202025-11-20%20091247.png)
+
+
 Step 18: Added a Drillthrough page for detailed policy analysis.
 
 ## Insights
